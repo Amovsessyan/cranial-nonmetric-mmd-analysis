@@ -56,7 +56,9 @@ During the leave-one-out analysis, trait sets are not reselected. The procedure 
 
 ## How to run the analysis
 
-Run the script from the repository root:
+Download or clone the repository. In R or RStudio, set the working directory to the repository root, that is, the folder containing `run_mmd_honest_analysis.R`, `data/`, and `results/`.
+
+Then run:
 
 ```r
 source("run_mmd_honest_analysis.R")
