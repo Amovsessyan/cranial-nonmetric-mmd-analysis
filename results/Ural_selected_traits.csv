@@ -1,0 +1,5 @@
+"panel","traits"
+"Best screening subset","Multiple infraorbital foramina; Parietal notch bone; Triquetrum bone; Mendosa suture traces; Tympanic dehiscence; Transverse palatine suture broken"
+"Honest max-over-k","Multiple infraorbital foramina; Parietal notch bone; Mendosa suture traces; Tympanic dehiscence; Transverse palatine suture broken; Palatine torus"
+"Honest fixed k=12","Supraorbital foramen; Fronto-temporal articulation; Parietal notch bone; Asteronic bone; Inca bone; Ossicle at lambda; Lambdoidal ossicles; Mendosa suture traces; Tympanic dehiscence; Foramen spinosum open; Transverse palatine suture broken; Palatine torus"
+"Sequential expansion final k=12","Multiple infraorbital foramina; Parietal notch bone; Mendosa suture traces; Tympanic dehiscence; Transverse palatine suture broken; Palatine torus; Fronto-temporal articulation; Ossicle at lambda; Lambdoidal ossicles; Precondylar tubercle; Foramen spinosum open; Pterygospinous foramen"

@@ -1,0 +1,11 @@
+"region","analysis","k","statistic","p"
+"Ural","All traits Mantel",30,0.599799782967614,0.0024
+"Ural","Best screening subset",6,0.848286103132176,0.001
+"Ural","Honest max-over-k",6,0.841448397324339,0.006
+"Ural","Honest fixed k=12",12,0.784144644164309,0.004
+"Ural","Sequential expansion final k=12",12,0.819608507738411,0.002
+"Siberia","All traits Mantel",30,0.516927042249418,0.037
+"Siberia","Best screening subset",6,0.725037434514934,0.002
+"Siberia","Honest max-over-k",12,0.708283847480004,0.048
+"Siberia","Honest fixed k=12",12,0.689560966430837,0.022
+"Siberia","Sequential expansion final k=12",12,0.708283847480004,0.002

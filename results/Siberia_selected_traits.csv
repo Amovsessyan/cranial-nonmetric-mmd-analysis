@@ -1,0 +1,5 @@
+"panel","traits"
+"Best screening subset","Trochlear spur; Multiple infraorbital foramina; Transv. zygomatic suture traces (+5mm); Pterion form X-shaped; Parietal foramen; Palatine torus"
+"Honest max-over-k","Frontal foramen; Trochlear spur; Multiple infraorbital foramina; Transv. zygomatic suture traces (+5mm); Pterion form X-shaped; Epipteric bone; Parietal foramen; Interparietal process; Posterior condylar foramen; Foramen spinosum open; Pterygospinous foramen; Transverse palatine suture concave"
+"Honest fixed k=12","Metopic suture; Frontal foramen; Trochlear spur; Multiple infraorbital foramina; Pterion form X-shaped; Epipteric bone; Parietal notch bone; Interparietal process; Posterior condylar foramen; Condylar facet double; Pterygospinous foramen; Transverse palatine suture broken"
+"Sequential expansion final k=12",""
